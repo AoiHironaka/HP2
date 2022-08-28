@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+.season-main1 {
+  width: 100%;
+  margin-bottom: 90px;
+  float: left;
+  position: relative;
+}
+
+.season-main1 h1 {
+  width: 100%;
+  background-color: #5ef2d7;
+  font-size: 50px;
+  padding: 50px 0 50px 200px;
+  box-sizing: border-box;
+}
+
+.season-main1 img {
+  position: absolute;
+  top: 110px;
+  left: 950px; 
+  height: 550px;
+}
+
+.detail1 {
+  margin: 98px 0 98px 200px;
+  background-color: #21271E;
+  color: #67FF5B;
+  width: 20%;
+  padding: 75px;
+  text-align: left;
+}
+
+.detail1 h3 {
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.detail1 p {
+  font-size: 17px;
+}
+
+.season-main2 {
+  width: 100%;
+  margin-bottom: 90px;
+  position: relative;
+}
+
+.season-main2 img {
+  height: 600px;
+  width: 100%;
+}
+
+.detail2 {
+  position: absolute;
+  top: 770px;
+  margin: 98px 0 98px 200px;
+  background-color: #c9dce456;
+  color: #ffffff;
+  width: 30%;
+  padding: 75px;
+  text-align: center;
+}
+
+.detail2 h3 {
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
+.detail2 p {
+  font-size: 18px;
+  padding-bottom: 80px;
+}
+
+.detail2 a {
+  padding: 20px 60px;
+  background-color: #5ef2d7;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+}

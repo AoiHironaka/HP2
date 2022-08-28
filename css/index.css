@@ -1,0 +1,175 @@
+@charset "UTF-8";
+
+.top1 {
+  background-image: url("../img/MAIN.jpg");
+  padding-top: 53px;
+  width: 100%;
+  height: 800px;
+  background-size: cover;
+}
+
+.top-logo {
+  margin: 200px 0 65px 200px;
+}
+
+.top-logo img {
+  height: 60px;
+}
+
+.download {
+  margin-left: 200px;
+}
+
+.download a {
+  padding: 20px 60px;
+  background-color: #E52747;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.download a:hover {
+  background-color: #FF294D;
+  transition: 0.3s;
+}
+
+
+.news {
+  height: 550px;
+  border-top: #69F25E 3px solid;
+}
+
+.news-wrapper {
+  margin: 0 170px;
+}
+
+.news h1 {
+  color: #69F25E;
+  font-size: 55px;
+  margin: 30px 0;
+  text-align: center;
+}
+
+.news-list {
+  float: left;
+  width: 280px;
+  height: 280px;
+  background-color: #F1F1F1;
+  border-bottom: 8px solid #D3D3D3;
+  margin: 0 30px;
+  padding: 25px;
+}
+
+.news-list img {
+  height: 180px;
+  width: 280px;
+  display: block;
+  padding-bottom: 15px;
+}
+
+.day {
+  font-size: 13px;
+  font-weight: bold;
+  color: #50C947;
+}
+
+.detail {
+  font-size: 15px;
+  padding-top: 8px;
+  font-weight: bold;
+  color: #21271E;
+}
+
+
+.about {
+  height: 1400px;
+  width: 100%;
+}
+
+.about-wrapper1 {
+  position: relative;
+  height: 700px;
+  width: 100%;
+  background-color: #21271E;
+}
+
+.about-img1 {
+  width: 100%;
+  height: 550px;
+  margin: 100px 0 50px 0;
+}
+
+.about h1 {
+  position: absolute;
+  top: 86.3px;
+  left: 170px;
+  color: #ffffff;
+  font-size: 90px;
+}
+
+.about-list1 {
+  position: absolute;
+  top: 270px;
+  left: 170px;
+  height: 150px;
+  width: 350px;
+  padding: 50px 70px;
+  background-color: #21271ea8;
+}
+
+.about-wrapper2 {
+  position: relative;
+  height: 280px;
+  width: 100%;
+  background-color: #21271E;
+}
+
+.about-img2 {
+  width: 45%;
+  height: 550px;
+  margin-left: 170px;
+}
+
+.about-list2 {
+  position: absolute;
+  top: 13px;
+  left: 880px;
+  height: 150px;
+  width: 350px;
+  padding: 50px 70px;
+}
+
+.about a {
+  position: absolute;
+  top: 380px;
+  left: 950px;
+  display: inline-block;
+  padding: 20px 60px;
+  background-color: #50C947;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.about a:hover {
+  background-color: #55d04c;
+  transition: 0.3s;
+}
+
+.about-list1 h2,
+.about-list2 h2 {
+  font-size: 35px;
+  color: #ffffffd8;
+  padding-bottom: 30px;
+}
+
+.about-list1 h2 span,
+.about-list2 h2 span {
+  color: #69F25E;
+}
+
+.about-list1 p,
+.about-list2 p {
+  color: #ffffffc3;
+  font-size: 18px;
+}

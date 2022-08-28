@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+.top2 {
+  width: 100%;
+  height: 253px;
+  border-bottom: #69F25E 3px solid;
+  position: relative;
+}
+
+.top2 img {
+  width: 100%;
+  margin-top: 53px;
+  height: 200px;
+}
+
+.top2 p {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.top3 {
+  width: 100%;
+  height: 503px;
+  border-bottom: #69F25E 3px solid;
+  position: relative;
+}
+
+.top3 img {
+  width: 100%;
+  margin-top: 53px;
+  height: 450px;
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 43%;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.sub-title {
+  position: absolute;
+  top: 60%;
+  left: 49%;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 20px;
+}
+
